@@ -1,4 +1,4 @@
-# Task-scheduler-GUI
+# Task-scheduler-GUI - using GTK+
 
 Task Scheduler GUI is a graphical user interface application for managing and scheduling tasks. It provides a user-friendly interface to input tasks with their priorities, burst times, and execute them using different scheduling algorithms.
 
