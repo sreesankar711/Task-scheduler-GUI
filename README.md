@@ -4,7 +4,7 @@ Task Scheduler GUI is a graphical user interface application for managing and sc
 
 ## Features
 
-Implements some Scheduling Algorithms, some of which are,
+Implements some Scheduling Algorithms, which includes,
 
 1. Priority Scheduling: Allows scheduling tasks based on their priority levels. Higher priority tasks are executed first.
 2. Shortest Job Next Scheduling: Executes tasks based on their burst times. Shorter tasks are executed first.
