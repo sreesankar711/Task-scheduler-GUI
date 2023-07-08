@@ -13,6 +13,6 @@ Implements some Scheduling Algorithms, some of which are,
 
 
 ## Requirements
-C++ Compiler (e.g., GCC)
-GTK+ Library (version 3 or higher)
+- C++ Compiler (e.g., GCC)
+- GTK+ Library (version 3 or higher)
 
